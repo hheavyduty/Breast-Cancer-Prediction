@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction
+BreastCancerPrediction (WISCONSIN MEDICAL DATASET)is done using7classiﬁcationalgorithm: Logistic Regression,SupportVectorMachine(linearkernel),SupportVector Machine(polynomialkernel),EnsembleLearningMethodofDecision Tree,RandomForest,AdaboostClassiﬁer,andlastlyvotingalgorithmbasedon LogisticRegression,SupportVectorMachine(polynomial kernel)andDecision tree.  This project was represented by a python GUI using tkinter.
